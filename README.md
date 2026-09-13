@@ -14,6 +14,10 @@ The project uses the following text dataset:
 
 The dataset is included in this repository and is used for training the next-word prediction model.
 
+### Dataset Link
+
+https://www.kaggle.com/datasets/moxxis/harry-potter-lstm
+
 ## Technologies Used
 
 - Python
